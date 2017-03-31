@@ -1,0 +1,6 @@
+verilog work "UART_TX.V"
+verilog work "kcpsm3.v"
+verilog work "transmit_engine.v"
+verilog work "synch_reset.v"
+verilog work "embedded_kcpsm3.v"
+verilog work "proj3_TransmitEngine.v"

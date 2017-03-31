@@ -1,0 +1,18 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Oct 18 23:20:02 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "baud_val<0>" LOCATE = SITE "G18" LEVEL 1;
+COMP "baud_val<1>" LOCATE = SITE "H18" LEVEL 1;
+COMP "baud_val<2>" LOCATE = SITE "K18" LEVEL 1;
+COMP "baud_val<3>" LOCATE = SITE "K17" LEVEL 1;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "parity_en" LOCATE = SITE "N17" LEVEL 1;
+COMP "tx" LOCATE = SITE "P9" LEVEL 1;
+COMP "odd_n_even" LOCATE = SITE "L13" LEVEL 1;
+COMP "bit8" LOCATE = SITE "L14" LEVEL 1;
+COMP "rstb" LOCATE = SITE "B18" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

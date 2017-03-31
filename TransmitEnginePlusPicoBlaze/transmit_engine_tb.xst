@@ -1,0 +1,5 @@
+set -tmpdir "E:/CECS 460/Labs/Lab 3 - Transmit Engine/TransmitEnginePlusPicoBlaze/xst/projnav.tmp"
+set -xsthdpdir "E:/CECS 460/Labs/Lab 3 - Transmit Engine/TransmitEnginePlusPicoBlaze/xst"
+elaborate
+-ifn transmit_engine_tb.prj
+-ifmt mixed

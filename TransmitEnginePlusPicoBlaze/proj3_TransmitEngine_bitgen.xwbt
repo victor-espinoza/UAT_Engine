@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\CECS 460\Labs\Lab 3 - Transmit Engine\TransmitEnginePlusPicoBlaze\proj3_TransmitEngine.ncd
+OUTFILE=E:\CECS 460\Labs\Lab 3 - Transmit Engine\TransmitEnginePlusPicoBlaze\proj3_TransmitEngine.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=E:\CECS 460\Labs\Lab 3 - Transmit Engine\TransmitEnginePlusPicoBlaze
+LICENSE=WebPack
+USER_INFO=210745770_0_0_556

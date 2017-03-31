@@ -1,0 +1,8 @@
+verilog isim_temp "UART_TX.V"
+verilog isim_temp "kcpsm3.v"
+verilog isim_temp "transmit_engine.v"
+verilog isim_temp "synch_reset.v"
+verilog isim_temp "embedded_kcpsm3.v"
+verilog isim_temp "proj3_TransmitEngine.v"
+verilog isim_temp "proj3_TransmitEngine_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

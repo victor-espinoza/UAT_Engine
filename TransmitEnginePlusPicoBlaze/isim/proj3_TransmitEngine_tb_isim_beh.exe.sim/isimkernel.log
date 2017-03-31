@@ -1,0 +1,28 @@
+Command line:
+   proj3_TransmitEngine_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50600
+
+Thu Mar 30 22:54:12 2017
+
+
+ Elaboration Time: 0.951606 sec
+
+ Current Memory Usage: 1812.8 Meg
+
+ Total Signals          : 1501
+ Total Nets             : 818
+ Total Signal Drivers   : 584
+ Total Blocks           : 412
+ Total Primitive Blocks : 305
+ Total Processes        : 1044
+ Total Traceable Variables  : 1081
+ Total Scalar Nets and Variables : 43333
+
+ Total Simulation Time: 0.951606 sec
+
+ Current Memory Usage: 1812.8 Meg
+
+Thu Mar 30 22:54:18 2017
+
