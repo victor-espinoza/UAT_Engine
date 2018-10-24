@@ -1,5 +1,5 @@
-Transmit_Engine
 Project Overview:    
+
 Functional Universal Asynchronous Transmit Engine using Verilog.   
     
 The purpose of this lab was to create the transmit engine logic and to include the PicoBlaze into our design. For this lab, I was supposed to continually transmit the sequence "CSULB CECS 460<CR><LF>" to the terminal.    
