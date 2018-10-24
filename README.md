@@ -1,4 +1,4 @@
-# Lab_3_Transmit_Engine
+Transmit_Engine
 Project Overview:    
 Functional Universal Asynchronous Transmit Engine using Verilog.   
     
